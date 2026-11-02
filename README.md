@@ -14,7 +14,7 @@ Engineering student in image & data science · Machine learning · Image process
 
 - 🎓 Final-year engineering student at **Télécom Physique Strasbourg** (Images, Signals & Data Sciences), class of 2027
 - 🔬 Interested in **deep learning for image analysis**, **classical image processing** and the intersection of **ML and scientific computing / physics simulation**
-- 🌍 French (native) · English (C1)
+- 🌍 French (native) · English (C1) - Italian (B1) 
 - 📫 Looking for an **end-of-studies internship** in Alsace
 
 ## Tech stack
