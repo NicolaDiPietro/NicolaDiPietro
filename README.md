@@ -1,24 +1,51 @@
+<div align="center">
+
 # Nicola Di Pietro
 
-**Engineering student in images, signals & data science** · Machine learning · Image processing · Robotics
+Engineering student in image & data science · Machine learning · Image processing · Scientific computing
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YOUR__LINKEDIN-0A66C2?style=flat-square)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+
+</div>
+
+---
 
 ## About me
 
-- 🎓 Final-year engineering student at Télécom Physique Strasbourg (Images, Signals & Data Science track)
-- 🔬 Interested in AI for engineering design, computer vision and robotics
-- 🌍 English (C1, LanguageCert LTE)
-- 📫 Looking for an end-of-studies internship in Alsace
+- 🎓 Final-year engineering student at **Télécom Physique Strasbourg** (Information Systems & Data Science track), class of 2027
+- 🔬 Interested in **deep learning for image analysis**, **classical image processing** and the intersection of **ML and scientific computing / physics simulation**
+- 🌍 French (native) · English (C1)
+- 📫 Looking for an **end-of-studies internship** in Alsace
 
 ## Tech stack
 
-### Machine learning & deep learning
+#### Machine learning & deep learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-89B4FA?style=flat-square&logoColor=black)
-![Optuna](https://img.shields.io/badge/Optuna-2F6EBA?style=flat-square&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-89B4C8?style=flat-square)
+![Optuna](https://img.shields.io/badge/Optuna-3B5AA8?style=flat-square)
+![Weights & Biases](https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
 
-**Methods:** image processing, image classification, hyperparameter optimization
+#### Image & signal processing
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![scikit-image](https://img.shields.io/badge/scikit--image-F7931E?style=flat-square)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-2F6F9F?style=flat-square)
+
+#### Scientific computing & data
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Numba](https://img.shields.io/badge/Numba-00A3E0?style=flat-square&logo=numba&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-2C4F73?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Also worked with:** C, C++
+
+**Methods:** filtering, mathematical morphology, segmentation, feature extraction, spectral analysis, clustering, CNN training & hyperparameter optimization
 
 ## Featured projects
 
@@ -28,33 +55,26 @@ Internship
 
 An AI model that proposes physically viable laser designs for data centers from a set of specifications.
 
-`Python` `Machine learning`
+### 🔩 Automatic screw sorter — vision-based clustering
 
-### 🔩 Vision-based automatic sorter
+Engineering school project, team of 5 (2025–2026) · [Repository](https://github.com/gtritzguden/PI01)
 
-Engineering project · [Repository](https://github.com/YOUR_USERNAME/REPO_NAME)
+A 3D printer converted into an automatic sorter for screws, nuts and washers (1,000 parts, 5 classes).
 
-A 3D printer converted into an object sorter, using image processing to recognize parts.
+- Image features extracted with DINOv2, then unsupervised clustering (k-means, DBSCAN, HDBSCAN) — 95 % accuracy
+<!-- - My part: describe your own contribution here, then remove these comment markers -->
 
-`Python` `Image processing`
+`Python` `PyTorch` `DINOv2` `OpenCV` `scikit-learn`
 
-### 🧪 Image classification framework
+### 🧪 Modular training framework — CIFAR-10 image classification
 
-Project · [Repository](https://github.com/YOUR_USERNAME/REPO_NAME)
+Course project · [Repository](https://github.com/NicolaDiPietro/pytorch-training-framework)
 
-A PyTorch framework for image classification, with configuration managed by Hydra and hyperparameter optimization by Optuna.
+A configurable training framework for image classifiers on CIFAR-10.
 
-`Python` `PyTorch` `Hydra` `Optuna`
+- Preprocessing, data augmentation and overfitting prevention, PyTorch models
+- Hyperparameter search with Hydra + Optuna, experiment tracking with Weights & Biases
 
-### 🤖 Pick and place with a robotic arm
+`Python` `PyTorch` `Hydra` `Optuna` `Weights & Biases`
 
-Project · [Repository](https://github.com/YOUR_USERNAME/REPO_NAME)
 
-A pick-and-place application using a robotic arm.
-
-`Robotics`
-
-## Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
