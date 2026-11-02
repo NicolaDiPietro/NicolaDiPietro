@@ -4,7 +4,7 @@
 
 Engineering student in image & data science · Machine learning · Image processing · Scientific computing
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YOUR__LINKEDIN-0A66C2?style=flat-square)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YOUR__LINKEDIN-0A66C2?style=flat-square)](https://www.linkedin.com/in/nicola-di-pietro-5a2a292ba/)
 
 </div>
 
@@ -12,7 +12,7 @@ Engineering student in image & data science · Machine learning · Image process
 
 ## About me
 
-- 🎓 Final-year engineering student at **Télécom Physique Strasbourg** (Information Systems & Data Science track), class of 2027
+- 🎓 Final-year engineering student at **Télécom Physique Strasbourg** (Images, Signals & Data Sciences), class of 2027
 - 🔬 Interested in **deep learning for image analysis**, **classical image processing** and the intersection of **ML and scientific computing / physics simulation**
 - 🌍 French (native) · English (C1)
 - 📫 Looking for an **end-of-studies internship** in Alsace
